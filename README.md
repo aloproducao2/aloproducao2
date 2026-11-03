@@ -9,8 +9,9 @@
 Creator of **CastDeck Local** — a self-hosted live studio focused on browser-based video calls,
 multistream and local recording.
 
-[**CastDeck**](https://cast.flue.live) · [**Website**](https://cast.flue.live) ·
-[**Instagram**](https://www.instagram.com/miguel_kallemback/) · [**Português**](README.pt-BR.md)
+[**CastDeck**](https://cast.flue.live) · [**GitHub**](https://github.com/aloproducao2/castdeck-local) ·
+[**Website**](https://cast.flue.live) · [**Instagram**](https://www.instagram.com/miguel_kallemback/) ·
+[**Português**](README.pt-BR.md)
 
 </div>
 
@@ -39,7 +40,7 @@ not an afterthought.
 - **Delivery** — RTMP/RTMPS/SRT multistream, local MP4 recording and simultaneous vertical 9:16.
 - **Open source** — AGPL-3.0-only, with an optional commercial license.
 
-[**See CastDeck in action →**](https://cast.flue.live)
+[**See CastDeck in action →**](https://cast.flue.live) · [**Source code on GitHub →**](https://github.com/aloproducao2/castdeck-local)
 
 ## 🛠️ Stack I work with
 
