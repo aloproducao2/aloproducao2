@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/castdeck-studio.png" alt="CastDeck Local studio with guests and switcher" width="100%">
+<img src="https://cast.flue.live/assets/img/estudio-grade.png" alt="CastDeck Local studio with guests and switcher" width="100%">
 
 # Miguel Kallemback
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/castdeck-studio.png" alt="Estúdio do CastDeck Local com convidados e mesa de corte" width="100%">
+<img src="https://cast.flue.live/assets/img/estudio-grade.png" alt="Estúdio do CastDeck Local com convidados e mesa de corte" width="100%">
 
 # Miguel Kallemback
 
